@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🔭 I’m currently working on Time Series Analysis with Causal Discovery Modelling
-💬 Ask me about Python, Time Series Analysis, Causality, Temporal Data, Data Mining
+- 🔭 I’m currently working on Time Series Analysis with Causal Discovery Modelling
+- 💬 Ask me about Python, Time Series Analysis, Causality, Temporal Data, Data Mining
