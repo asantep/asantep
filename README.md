@@ -1,4 +1,4 @@
-### Hi there 👋
+### 👋 I am Patrick Owusu 
 
 <!--
 **asantep/asantep** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on Time Series Analysis with Causal Discovery Modelling
+💬 Ask me about Python, Time Series Analysis, Causality, Temporal Data, Data Mining
